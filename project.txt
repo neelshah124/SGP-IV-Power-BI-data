@@ -1,0 +1,61 @@
+types of stress:
+
+financial stress:
+work load
+less income
+over income
+family stress
+
+financial stress index
+
+it is usually measured by profitability measure and a solvency measure.
+
+social stress:
+social isolation
+age
+unhappy
+difficult companionship
+living lifestyle
+anxiety
+
+mental stress:
+it is affected depending upon the internal or external factors caused by different stress
+
+physical stress:
+external can be from physical over work or underwork,
+emotional overflow,
+body or mental tension,
+internal can be from illness or medical procedure
+Post trauma stress
+
+peer stress:
+money
+competition due to literacy
+personal envy
+
+work stress:
+unhealthy relationship among peers
+incompetency in work
+economical growth
+
+emotional stress:
+death of a close alibi
+increase in financial or social obligations
+chronic illness or injury
+post trauma stress
+depression
+anxiety
+
+main outcomes of stress on humans:
+depression
+anxiety
+anger
+grief
+guilt
+low self esteem
+
+stress index
+general formula = Control - Controlled
+                 -----------------------
+                  Control + controlled
+lies between -1 to +1
